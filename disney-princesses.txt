@@ -1,0 +1,21 @@
+"movie","princess","obstructive_parent","dream","century","culture","year_produced","IMDb"
+"Tangled","Rapunzel","Yes","experience the outside world",18,"German",2010,7.7
+"Encanto","Mirabel","Yes","approval",20,"Colombian",2021,7.2
+"Moana","Moana","Yes","sail the sea",-9,"Polynesian",2016,7.6
+"Frozen","Anna","No","not being alone",19,"Nordic",2013,7.4
+"Frozen","Elsa","Yes","controlling her power",19,"Nordic",2013,7.4
+"Brave",
+"Sleeping Beauty",
+"The Little Mermaid",
+"The Princess and The Frog",
+"Mulan",
+"Aladdin",
+"Enchanted",
+"Pocahontas",
+"Beauty and The Beast",
+"Snow White and The Seven Dwarfs",
+"Cinderella",
+"Hercules",
+"Anastasia",
+
+
