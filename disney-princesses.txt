@@ -4,14 +4,14 @@
 "Moana","Moana","Yes","sail the sea",-9,"Polynesian",2016,7.6
 "Frozen","Anna","No","not being alone",19,"Nordic",2013,7.4
 "Frozen","Elsa","Yes","controlling her power",19,"Nordic",2013,7.4
+"Pocahontas","Pocahontas","No","choosing her own path",17,"Native American",1995,6.7
+"Mulan","Mulan","No","protect and honor her family",5,"Chineese",1998,7.7
+"The Little Mermaid","Ariel","Yes","becoming a human",19,"Danish",1989,7.2
+"The Princess and The Frog","Tiana","No","fulfilling his father's dream",20,"American",2009,7.1
+"Sleeping Beauty","Aurora","No","finding the prince she saw in her dreams",14,"French",1959,7.2
 "Brave",
-"Sleeping Beauty",
-"The Little Mermaid",
-"The Princess and The Frog",
-"Mulan",
 "Aladdin",
 "Enchanted",
-"Pocahontas",
 "Beauty and The Beast",
 "Snow White and The Seven Dwarfs",
 "Cinderella",
