@@ -9,13 +9,8 @@
 "The Little Mermaid","Ariel","Yes","becoming a human",19,"Danish",1989,7.2
 "The Princess and The Frog","Tiana","No","fulfilling his father's dream",20,"American",2009,7.1
 "Sleeping Beauty","Aurora","No","finding the prince she saw in her dreams",14,"French",1959,7.2
-"Brave",
-"Aladdin",
-"Enchanted",
-"Beauty and The Beast",
-"Snow White and The Seven Dwarfs",
-"Cinderella",
-"Hercules",
-"Anastasia",
-
-
+"Cinderella","Cinderella","Yes","taking the reins of her life",19,"French",1950,7.3
+"Snow White and The Seven Dwarfs","Snow White","Yes","living happily ever after with her prince",19,"German",1937,7.6
+"Aladdin","Jasmine","Yes","to be free to make her own choices",18,"Arab",1992,8
+"Beauty and The Beast","Belle","No","being with someone who understands her whitin a place she can free her mind",19,"French",1991,8
+"Brave","Merida","Yes","non-discrimination and freedom",10,"Scottish",2012,7.1
